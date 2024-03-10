@@ -1,0 +1,19 @@
+.div2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.options_form{
+    margin: auto 20px;
+}
+
+.options_form button {
+    background-color: #116bb4;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    color: #fff;
+    padding: 1%;
+    margin: 2px 0;
+    cursor: pointer;
+}
